@@ -1,2 +1,2 @@
-# jesta
-Jesta CS:GO Cheat
+# Jesta CS:GO
+## readme.md not created ;(
